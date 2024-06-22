@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:1,
+#EXT-X-TARGETDURATION:0.1
+#EXTINF:0.1,
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=640456&extension=ts
