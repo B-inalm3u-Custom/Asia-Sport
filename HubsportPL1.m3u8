@@ -1,6 +1,8 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:1,
+#EXT-X-TARGETDURATION:0.1
+#EXT-X-MEDIA-SEQUENCE:0.1
+#EXTINF:0.1,
 http://gtvstreams.me:80/live/Tony15/Tony15/787797.ts
+#EXTINF:0.2,
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554980&extension=ts
+#EXT-X-ENDLIST
