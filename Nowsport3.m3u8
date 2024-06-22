@@ -3,5 +3,7 @@
 #EXT-X-MEDIA-SEQUENCE:0.1
 #EXTINF:0.1,
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554615&extension=ts
+#EXTINF:0.1,
 http://keycdn.co/play/live.php?mac=00:1A:79:74:D2:D4&stream=558577&extension=ts
+#EXTINF:0.1,
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:7C:23:B8&stream=1110617&extension=ts
