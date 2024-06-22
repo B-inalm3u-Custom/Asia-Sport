@@ -3,4 +3,4 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTM3U #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=150000
 #EXTINF:1,
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=640458&extension=ts
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=640458&extension=m3u8
