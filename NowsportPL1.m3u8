@@ -1,10 +1,9 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:0.1
-#EXT-X-MEDIA-SEQUENCE:0.1
-#EXTINF:0.1,
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts
+#EXT-X-VERSION:1
+#EXT-X-SERVER-CONTROL:CAN-BLOCK-RELOAD=YES,CAN-SKIP-UNTIL=24,PART-HOLD-BACK=3.012
+#EXT-X-PART-INF:PART-TARGET=1
+#EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
 http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&stream=594611&extension=ts
-#EXTINF:2,
-http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:7C:23:B8&stream=1110622&extension=ts
-#EXT-X-ENDLIST
+#http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:7C:23:B8&stream=1110622&extension=ts
