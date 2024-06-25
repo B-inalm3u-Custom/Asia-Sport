@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
+#EXT-X-TARGETDURATION:0
 #EXTINF:1,
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588906&extension=ts
