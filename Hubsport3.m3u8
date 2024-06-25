@@ -1,9 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-DISCONTINUITY-SEQUENCE:1
 #EXTINF:1,
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554966&extension=ts
 #http://alpha5-bx.me:80/play/live.php?mac=00:1A:79:00:04:10&stream=941571&extension=ts
