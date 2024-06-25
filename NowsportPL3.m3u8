@@ -1,8 +1,9 @@
 #EXTM3U
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:80000
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-VERSION:2
+#EXT-X-TARGETDURATION:2
 #EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXTINF:1,
+#EXTINF:2,
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588911&extension=ts
 #http://gtvstreams.me:80/play/live.php?mac=00:1a:79:af:7d:70&stream=217475&extension=ts
