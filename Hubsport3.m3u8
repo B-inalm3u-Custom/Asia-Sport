@@ -4,5 +4,7 @@
 #EXT-X-VERSION:1
 #EXT-X-TARGETDURATION:1
 #EXTINF:1,
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36303.ts
+
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554966&extension=ts
 #http://alpha5-bx.me:80/play/live.php?mac=00:1A:79:00:04:10&stream=941571&extension=ts
