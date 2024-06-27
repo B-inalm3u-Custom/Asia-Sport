@@ -1,8 +1,5 @@
 #EXTM3U
-#EXT-X-MEDIA-SEQUENCE:80000
-#EXT-X-ALLOW-CACHE:NO
-#EXT-X-VERSION:2
-#EXT-X-TARGETDURATION:2
-#EXTINF:2,
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
-#http://gtvstreams.me:80/play/live.php?mac=00:1a:79:af:7d:70&stream=217477&extension=ts
+#EXT-X-STREAM-INF:BANDWIDTH=4300000,RESOLUTION=1020x720,CODECS="avc1.42e00a,mp4a.40.2"
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x420,CODECS="avc1.42e00a,mp4a.40.2"
+http://gtvstreams.me:80/play/live.php?mac=00:1a:79:af:7d:70&stream=217477&extension=m3u8
